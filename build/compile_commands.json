@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/kirofeed/Desktop/FibonacciGenerator/build",
+  "command": "/usr/bin/g++  -I/home/kirofeed/Desktop/FibonacciGenerator/src  -Wall -Wextra -pedantic -g -std=gnu++98 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/kirofeed/Desktop/FibonacciGenerator/src/main.cpp",
+  "file": "/home/kirofeed/Desktop/FibonacciGenerator/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/kirofeed/Desktop/FibonacciGenerator/build",
+  "command": "/usr/bin/g++  -I/home/kirofeed/Desktop/FibonacciGenerator/src  -Wall -Wextra -pedantic -g -std=gnu++98 -o CMakeFiles/main.dir/src/FibonacciGenerator.cpp.o -c /home/kirofeed/Desktop/FibonacciGenerator/src/FibonacciGenerator.cpp",
+  "file": "/home/kirofeed/Desktop/FibonacciGenerator/src/FibonacciGenerator.cpp",
+  "output": "CMakeFiles/main.dir/src/FibonacciGenerator.cpp.o"
+},
+{
+  "directory": "/home/kirofeed/Desktop/FibonacciGenerator/build",
+  "command": "/usr/bin/g++ -DUNIT_TEST -I/home/kirofeed/Desktop/FibonacciGenerator/src  -Wall -Wextra -pedantic -g -std=gnu++14 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/test/test_FibonacciGenerator.cpp.o -c /home/kirofeed/Desktop/FibonacciGenerator/test/test_FibonacciGenerator.cpp",
+  "file": "/home/kirofeed/Desktop/FibonacciGenerator/test/test_FibonacciGenerator.cpp",
+  "output": "CMakeFiles/runTests.dir/test/test_FibonacciGenerator.cpp.o"
+},
+{
+  "directory": "/home/kirofeed/Desktop/FibonacciGenerator/build",
+  "command": "/usr/bin/g++ -DUNIT_TEST -I/home/kirofeed/Desktop/FibonacciGenerator/src  -Wall -Wextra -pedantic -g -std=gnu++14 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/src/FibonacciGenerator.cpp.o -c /home/kirofeed/Desktop/FibonacciGenerator/src/FibonacciGenerator.cpp",
+  "file": "/home/kirofeed/Desktop/FibonacciGenerator/src/FibonacciGenerator.cpp",
+  "output": "CMakeFiles/runTests.dir/src/FibonacciGenerator.cpp.o"
+}
+]

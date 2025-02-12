@@ -1,0 +1,5 @@
+/home/kirofeed/Desktop/FibonacciGenerator/build/CMakeFiles/main.dir
+/home/kirofeed/Desktop/FibonacciGenerator/build/CMakeFiles/runTests.dir
+/home/kirofeed/Desktop/FibonacciGenerator/build/CMakeFiles/test.dir
+/home/kirofeed/Desktop/FibonacciGenerator/build/CMakeFiles/edit_cache.dir
+/home/kirofeed/Desktop/FibonacciGenerator/build/CMakeFiles/rebuild_cache.dir
